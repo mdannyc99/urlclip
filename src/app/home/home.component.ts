@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { environment } from '@env/environment';
-import { finalize } from 'rxjs/operators';
+import { TranslateService } from '@ngx-translate/core';
 
 import { ShortenerService } from './shortener.service';
 
@@ -22,7 +22,7 @@ export class HomeComponent implements OnInit {
   inputURL: any = '';
   URLCard: URLCards[] = [];
 
-  constructor(private shortenerService: ShortenerService) {}
+  constructor(private shortenerService: ShortenerService, private translateService: TranslateService) {}
 
   ngOnInit() {
     this.isLoading = true;

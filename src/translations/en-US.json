@@ -12,5 +12,12 @@
   "Preferences": "Preferences",
   "Account": "Account",
   "Version": "Version",
-  "Shorten your URL here:": "Acorta tu url aquí:"
+  "¿Necesitas una URL más corta para tu sitio web? ¡Deja que GWEN haga su magia!": "Do you need a shorter URL for your website? Let GWEN do her magic!",
+  "Saludos Invocador, soy GWEN, tu acortadora de URLs favorita": "Wellcome summoner, I'm GWEN, your favorite URL shortener",
+  "Acorta tu url aquí:": "Shorten your URL here:",
+  "¡Vamos, GWEN!": "Come on, GWEN!",
+  "Link acortado:": "Link shorted:",
+  "URL original:": "Original URL:",
+  "Fecha de creación:": "Creation date:",
+  "Introduce tu URL:": "Enter your URL:"
 }
